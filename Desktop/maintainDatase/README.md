@@ -1,0 +1,30 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+my_env/
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Model files (optional, if you don’t want to commit large models)
+*.pkl
+*.joblib
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspacegit init
