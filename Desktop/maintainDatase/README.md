@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python cache and compiled files
 __pycache__/
 *.pyc
@@ -29,7 +28,3 @@ Thumbs.db
 .vscode/
 .idea/
 *.code-workspacegit init
-=======
-# machine-failure-prediction
-Predictive maintenance using Random Forest and Streamlit UI.”
->>>>>>> ce9a244c715754ab35cffd34bc4de2c4d6430b72
